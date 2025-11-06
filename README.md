@@ -27,6 +27,8 @@ This project explores customer shopping behavior using transactional data from 3
 
 Hi, I'm Girish, an aspiring Data Scientist. I would love to break down complex data topics into simple, practical content and extract the insights from them for the business development.
 
+Reference: This project is taken from the reference of https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI
+
 Thanks for checking out the project! 
 
   
